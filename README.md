@@ -34,4 +34,4 @@ As per the dataset, below are the variables and their description:
 ##
 
 # References
-This project is part of the Capstone project for the [Machine Learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) conducted by **Alexey Grigorev**
+This project is part of the Midterm project for the [Machine Learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) conducted by **Alexey Grigorev**
