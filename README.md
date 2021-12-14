@@ -4,7 +4,7 @@ The original dataset and problem is from Kaggle, [Laptop Price](https://www.kagg
 The same is also uploaded in this repository.
 
 # Problem Statement
-There are many different brands of laptops available in the market, with varying varieties in the processor to RAM to the type and size of memory. And the price of these laptops also vary accordingly. With the given dataset, we are trying to explore the features that most affect the price and predict the price.
+There are many different brands of laptops available in the market, with varying varieties in the processor to RAM to the type and size of memory. And the price of these laptops also vary accordingly. With the given dataset, we are trying to explore the features that most affect the price and predict the price using these variables.
 
 As per the dataset, below are the variables and their description:
 + Company-Laptop Manufacturer
